@@ -1,0 +1,86 @@
+ .bg-image{
+    background-color:#182C61;
+    background-size:cover;
+    width:100%;
+
+
+ }
+
+.cards{
+    width:100%;
+    background-color:#044687;
+    border-radius:15px;
+    color:white;
+    padding:20px;
+    margin-top:20px;
+
+
+}
+
+.mainid{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    color:#f5f6fa;
+    margin-left:50px;
+   
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    color:#f5f6fa;
+    margin-left:50px;
+}
+
+.mainheading{
+    font-family:'Times New Roman', Times, serif;
+    font-size:40px;
+    color:white;
+    text-align:center;
+    margin-top:25px;
+
+}
+
+.maininfo{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    color:#f5f6fa;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.websizebors{
+    background-color:black;
+    width:100%;
+    border-radius:25px;
+}
+.webs{
+    text-align:center;
+    padding:2px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    margin-left:none;
+}
+
+.fordata{
+    background-color:rgb(255, 255, 255);
+    width:100%;
+    height:100vh;
+}
+.mainheading2{
+    text-align:center;
+    padding:15px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:50px;
+    margin-left:none;
+    margin-top:25px;
+}
+
+input{
+    text-align:center;
+   
+    font-family:'Times New Roman', Times, serif;
+    margin:25px;
+
+}
+.delete{
+    background-color:rgb(254, 125, 102);
+}
